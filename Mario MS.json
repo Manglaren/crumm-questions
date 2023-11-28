@@ -23,8 +23,7 @@
             "answer": 2
         },
         {
-            "text": "I Super Mario World besöker du 73 banor fördelade på 9 världar. Vissa av dessa banor har fler än en utgång.
-            Hur många utgångar finns det totalt i spelet?",
+            "text": "I Super Mario World besöker du 73 banor fördelade på 9 världar. Vissa av dessa banor har fler än en utgång. Hur många utgångar finns det totalt i spelet?",
             "alternatives":
             [
                 { "text": "102" },
