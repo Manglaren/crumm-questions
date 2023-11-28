@@ -3,8 +3,7 @@
     "questions":
     [
         {
-            "text": "Super Mario World är det mest sålda SNES-spelet.
-            Hur många enheter såldes totalt?",
+            "text": "Super Mario World är det mest sålda SNES-spelet. Hur många enheter såldes totalt?",
             "alternatives":
             [
                 { "text": "+10 miljoner" },
@@ -14,8 +13,7 @@
             "answer": 3
         },
         {
-            "text": "Super Mario World portades till GBA år 2001.
-            Hur lyder titeln?",
+            "text": "Super Mario World portades till GBA år 2001. Hur lyder titeln?",
             "alternatives":
             [
                 { "text": "Super Mario Advance 1" },
@@ -25,8 +23,7 @@
             "answer": 2
         },
         {
-            "text": "I Super Mario World besöker du 73 banor fördelade på 9 världar.
-            Vissa av dessa banor har fler än en utgång.
+            "text": "I Super Mario World besöker du 73 banor fördelade på 9 världar. Vissa av dessa banor har fler än en utgång.
             Hur många utgångar finns det totalt i spelet?",
             "alternatives":
             [
@@ -37,8 +34,7 @@
             "answer": 3
         }
         {
-            "text": "I Super Mario Bros. 3 finns det 8 världar totalt.
-            Vilken är den fjärde?",
+            "text": "I Super Mario Bros. 3 finns det 8 världar totalt. Vilken är den fjärde?",
             "alternatives":
             [
                 { "text": "Water Land" },
@@ -48,9 +44,7 @@
             "answer": 2
         }
         {
-            "text": "Trollflöjten introduceras i Super Mario Bros. 3. 
-            Den låter dig warpa förbi en del världar.
-            Hur många trollflöjtar finns det att hitta i spelet?",
+            "text": "Trollflöjten introduceras i Super Mario Bros. 3. Den låter dig warpa förbi en del världar. Hur många trollflöjtar finns det att hitta i spelet?",
             "alternatives":
             [
                 { "text": "2" },
@@ -60,8 +54,7 @@
             "answer": 2
         }
         {
-            "text": "I Super Mario Bros. 3 kan du även spela som Luigi.
-            Hur skiljer sig gameplayet åt mellan bröderna?",
+            "text": "I Super Mario Bros. 3 kan du även spela som Luigi. Hur skiljer sig gameplayet åt mellan bröderna?",
             "alternatives":
             [
                 { "text": "Mario är snabbare" },
@@ -71,8 +64,7 @@
             "answer": 3
         }
         {
-            "text": "I Super Mario Odyssey besöker Mario staden New Donk City och stöter på stadens borgmästare.
-            Vem är det?",
+            "text": "I Super Mario Odyssey besöker Mario staden New Donk City och stöter på stadens borgmästare. Vem är det?",
             "alternatives":
             [
                 { "text": "Pauline" },
@@ -82,8 +74,7 @@
             "answer": 1
         }
         {
-            "text": "I Super Mario Odyssey är den tredje världen “Sand Kingdom” och den femte “Lake Kingdom”.
-            Vilken är den fjärde världen Mario besöker?",
+            "text": "I Super Mario Odyssey är den tredje världen “Sand Kingdom” och den femte “Lake Kingdom”. Vilken är den fjärde världen Mario besöker?",
             "alternatives":
             [
                 { "text": "Luncheon Kingdom" },
@@ -103,8 +94,7 @@
             "answer": 2
         }
         {
-            "text": "Rosalina dyker för första gången upp år 2007 i Super Mario Galaxy. 
-            Vad kallas hennes små följeslagare i kometobservatoriet?",
+            "text": "Rosalina dyker för första gången upp år 2007 i Super Mario Galaxy. Vad kallas hennes små följeslagare i kometobservatoriet?",
             "alternatives":
             [
                 { "text": "Starlings" },
@@ -114,8 +104,7 @@
             "answer": 3
         }
         {
-            "text": "Prankster Comet detected! dyker upp titt som tätt i Super Mario Galaxy 1 & 2.
-            Vad gör dessa kometer?",
+            "text": "Prankster Comet detected! dyker upp titt som tätt i Super Mario Galaxy 1 & 2. Vad gör dessa kometer?",
             "alternatives":
             [
                 { "text": "Warp-möjlighet" },
@@ -125,8 +114,7 @@
             "answer": 2
         }
         {
-            "text": "När du spelar som Yoshi i Super Mario Galaxy 2 byts stjärnpekaren ut.
-            Mot vad då?",
+            "text": "När du spelar som Yoshi i Super Mario Galaxy 2 byts stjärnpekaren ut. Mot vad då?",
             "alternatives":
             [
                 { "text": "Yoshis doja" },
@@ -136,8 +124,7 @@
             "answer": 3
         }
         {
-            "text": "I början av Super Mario 64 får Mario ett brev av Peach 
-            där hon berättar att hon har något åt honom. Vad då?",
+            "text": "I början av Super Mario 64 får Mario ett brev av Peach, där hon berättar att hon har något åt honom. Vad då?",
             "alternatives":
             [
                 { "text": "En mystisk stjärna" },
@@ -177,8 +164,7 @@
             "answer": 2
         }
         {
-            "text": "Marios rygga i Super Mario Sunshine heter F.L.U.D.D
-            Vad står det för?",
+            "text": "Marios rygga i Super Mario Sunshine heter F.L.U.D.D. Vad står det för?",
             "alternatives":
             [
                 { "text": "Flash Liquidizing Ultra Dousing Device" },
@@ -208,8 +194,7 @@
             "answer": 1
         }
         {
-            "text": "Den tredje världen i Super Mario Land, Easton Kingdom, innehåller statyer tagna ur IRL.
-            Vad föreställer dessa statyer?",
+            "text": "Den tredje världen i Super Mario Land, Easton Kingdom, innehåller statyer tagna ur IRL. Vad föreställer dessa statyer?",
             "alternatives":
             [
                 { "text": "Grekiska gudar" },
@@ -219,8 +204,7 @@
             "answer": 2
         }
         {
-            "text": "I Super Mario Land får du spela två banor i Gradius-liknande shooter-stil.
-            Vilka farkoster åker Mario i under dessa segment?",
+            "text": "I Super Mario Land får du spela två banor i Gradius-liknande shooter-stil. Vilka farkoster åker Mario i under dessa segment?",
             "alternatives":
             [
                 { "text": "Motorcykel & Tank" },
@@ -250,8 +234,7 @@
             "answer": 1
         }
         {
-            "text": "Bowser’s Furys gameplay har ett unikt gameplay för ett mariospel.
-            Vad gör det unikt?",
+            "text": "Bowser’s Furys gameplay har ett unikt gameplay för ett mariospel. Vad gör det unikt?",
             "alternatives":
             [
                 { "text": "RPG-inslag" },
@@ -261,8 +244,7 @@
             "answer": 3
         }
         {
-            "text": "I varje bana i Super Mario 3D World finns det 3 st av en viss collectible?
-            Vilken?",
+            "text": "I varje bana i Super Mario 3D World finns det 3 st av en viss collectible? Vilken?",
             "alternatives":
             [
                 { "text": "Stämpel" },
@@ -282,8 +264,7 @@
             "answer": 3
         }
         {
-            "text": "Sista bossen i Super Mario 3D World är en muterad Bowser.
-            Vad heter han?",
+            "text": "Sista bossen i Super Mario 3D World är en muterad Bowser. Vad heter han?",
             "alternatives":
             [
                 { "text": "Cowser" },
@@ -293,8 +274,7 @@
             "answer": 2
         }
         {
-            "text": "Det finns två warp zones i Super Mario Bros. 
-            Den första på bana 1-2, men vart hittar du den andra?",
+            "text": "Det finns två warp zones i Super Mario Bros. Den första på bana 1-2, men vart hittar du den andra?",
             "alternatives":
             [
                 { "text": "4-2" },
@@ -304,8 +284,7 @@
             "answer": 1
         }
         {
-            "text": "För att bli gratulerad av fyrverkerier efter avslutad bana i Super Mario Bros. 
-            måste du uppfylla ett specifikt krav. Vilket?",
+            "text": "För att bli gratulerad av fyrverkerier efter avslutad bana i Super Mario Bros. måste du uppfylla ett specifikt krav. Vilket?",
             "alternatives":
             [
                 { "text": "Klara banan utan att bli träffad av fiender" },
@@ -315,8 +294,7 @@
             "answer": 2
         }
         {
-            "text": "Att Mario blir odödlig av att käka en stjärna, det är sen gammalt. 
-            Men vem blir Mario egentligen?",
+            "text": "Att Mario blir odödlig av att käka en stjärna, det är sen gammalt. Men vem blir Mario egentligen?",
             "alternatives":
             [
                 { "text": "Stario" },
@@ -324,26 +302,6 @@
                 { "text": "Starman" }
             ],
             "answer": 3
-        }
-        {
-            "text": "",
-            "alternatives":
-            [
-                { "text": "" },
-                { "text": "" },
-                { "text": "" }
-            ],
-            "answer": 0
-        }
-        {
-            "text": "",
-            "alternatives":
-            [
-                { "text": "" },
-                { "text": "" },
-                { "text": "" }
-            ],
-            "answer": 0
         }
     ]
 }
